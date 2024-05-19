@@ -7,7 +7,7 @@
 using namespace std;
 
 class Person {
-protected:
+public:
     string name;
     string email;
     string phone;
